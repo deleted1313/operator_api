@@ -225,39 +225,5 @@
         }
       ]
     }
-  ],
-
-  "currentLocation": {
-    "active": 1,
-    "bonus": 0,
-    "channel_id": 1,
-    "channel_logic": "operator",
-    "channel_name": "Операторы Вологда",
-    "channels": [1, 2, 3, 12, 41, 96],
-    "contact_telephone": "8-800-5-500-600",
-    "contact_telephone2": "",
-    "country_code": "RU",
-    "country_id": 1,
-    "country_name": "Россия",
-    "country_telephone_length": 11,
-    "country_telephone_prefix": 8,
-    "district_id": null,
-    "enable_sitemap": 1,
-    "first_day": null,
-    "id": 1,
-    "lang": "ru",
-    "location_id": 1,
-    "location_name": "Вологда",
-    "location_url": "vologda",
-    "map_limits": "{'ne': [59.31899341938722, 40.074285174865736], 'sw': [59.13396136966592, 39.64267536431885]}",
-    "phone_provider_id": null,
-    "point": "[59.218593604839, 39.89471529521484]",
-    "position": 0,
-    "round_sum": 1,
-    "site_id": null,
-    "telephone_code": 8172,
-    "telephone_length": 6,
-    "timezone": "Europe/Moscow",
-    "use_bonuses": 0
-  }
+  ]
 }
