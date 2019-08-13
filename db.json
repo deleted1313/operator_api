@@ -259,20 +259,5 @@
     "telephone_length": 6,
     "timezone": "Europe/Moscow",
     "use_bonuses": 0
-  },
-  "locations": [
-    { "id": 0, "title": "Вологда" },
-    { "id": 1, "title": "Череповец" },
-    { "id": 2, "title": "Ярославль" }
-  ],
-  "channels": [
-    { "id": 0, "title": "Операторы Вологда" },
-    { "id": 1, "title": "Сайт Череповец" },
-    { "id": 2, "title": "Кафе Ярославль" }
-  ],
-  "districts": [
-    { "id": 0, "title": "Зосимовская" },
-    { "id": 1, "title": "Пошехонское" },
-    { "id": 2, "title": "Советский" }
-  ]
+  }
 }
